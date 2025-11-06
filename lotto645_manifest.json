@@ -1,0 +1,6 @@
+{
+  "version": "1.2.0",
+  "url": "https://example.com/lotto645_gui.py",
+  "sha256": "PUT_SHA256_OF_FILE_HERE",
+  "target": "lotto645_gui.py"
+}
