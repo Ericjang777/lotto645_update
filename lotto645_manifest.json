@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://raw.githubusercontent.com/Ericjang777/lotto645_update/main/Lotto645_GUI.exe",
-  "sha256": "5C9B8C0E12D33A7A3F4E89C51C15D2EFA2AC9D5B7712F4F40ACB61FDF72AA88A",
-  "target": "Lotto645_GUI.exe"
+  "version": "1.2.0",
+  "url": "https://raw.githubusercontent.com/Ericjang777/lotto645_update/refs/heads/main/lotto645_manifest.json",
+  "sha256": "aa03ac43c466e278487083bf375197b5d7b0c212a5b84559335e7c03d2e2d58e",
+  "target": "lotto645_gui.py"
 }
